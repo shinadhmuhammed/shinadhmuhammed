@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning Javascript and React Native
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 you can contact me at muhammedshinad2@gmail.com
+- 📫 You Can Contact Me at muhammedshinad2@gmail.com
 
 <!---
 shinadhmuhammed/shinadhmuhammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
