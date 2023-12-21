@@ -2,7 +2,7 @@
     <br>
 
   <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Muhammed+Shinadh;Mern+Full+Stack+developer;Freelancer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Muhammed+Shinadh+;Mern+Full+Stack+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
 
   
@@ -71,11 +71,8 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
+   <a target="_blank" href="https://https://www.linkedin.com/in/muhammed-shinadh-mk-6552a2212/">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a target="_blank" href="#">
-  <img align="center" alt="Instagram" width="auto" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/muhd_rashi__/)" />
    </a>
    <a target="_blank" href="#">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
