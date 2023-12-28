@@ -38,15 +38,11 @@
    
    
  <br>
- <h4 align="center"> 🕓 Version Control</h4>
-   <p align="center">
-   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 
 <br>
 <h4 align="center">💻 IDEs/Editors</h4>
    <p align="center">
-    <img align="center" alt="pycharm" width="auto" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
     <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
