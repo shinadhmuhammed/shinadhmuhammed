@@ -12,7 +12,6 @@
  
 <h4 align="center"> 📋 Languages</h4>
    <p align="center">
-   <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
      <img align="center" alt="css3" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="javascript" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -23,6 +22,8 @@
    <p align="center">
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
      <img align="center" alt="jquery" width="auto" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+      <img align="center" alt="nodejs" width="auto" src="https://dev.to/envoy_/150-badges-for-github-pnk" />
+
    
    
   
@@ -31,8 +32,8 @@
 <h4 align="center"> 💾 Databases</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img align="center" alt="SQLITE" width="auto" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-        <img align="center" alt="mysql" width="auto" src="https://github.com/Alto-b/Alto-b/assets/89630614/54f87f19-c71a-45a7-83c0-cbe92fd62975" />
+     <img align="center" alt="mongodb" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
       
 </p>
    
@@ -50,12 +51,6 @@
  <br>
 
 
-
-<br>
-<h4 align="center">Virtualization</h4>
- <p align="center">
-    <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-</p>
 
 
 <br>
