@@ -22,7 +22,8 @@
    <p align="center">
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
      <img align="center" alt="jquery" width="auto" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-      <img align="center" alt="nodejs" width="auto" src="https://dev.to/envoy_/150-badges-for-github-pnk" />
+      <img align="center" alt="nodejs" width="auto" src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+
 
    
    
