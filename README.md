@@ -7,7 +7,6 @@ MUHAMMED SHINADH MK
 
 💼 Freelancer with experience in building responsive web applications
 
-🔭 Currently working on enhancing my DevOps skills
 
 
 </div>
