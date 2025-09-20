@@ -3,9 +3,10 @@ MUHAMMED SHINADH MK
 
 <p> <a href="https://www.linkedin.com/in/muhammed-shinadh-mk-6552a2212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/shinadhmuhammed"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a> </p> <img src="https://komarev.com/ghpvc/?username=shinadhmuhammed&color=6A5ACD&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div> <div align="center">
 💫 About Me
-🚀 Full Stack Developer specializing in MERN stack applications
-
-💼 Freelancer with experience in building responsive web applications
+🚀 Full Stack Developer specializing in MERN stack applications.
+💡 Experienced in building scalable and high-performance applications with modern architectures.
+🛠️ Skilled in NestJS, SQL databases, and ORM tools like Sequelize for efficient data modeling and management.
+⚡ Passionate about solving complex problems, writing clean code, and continuously learning new technologies.
 
 
 
